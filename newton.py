@@ -38,3 +38,5 @@ def optimize(start, fun, epsilon = 0.0001):
             break
     return x_t
 
+""clear definition of functions"
+
